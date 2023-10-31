@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Sign Up</title>
+</head>
+<body>
+    <div class="container">
+        <h2>Sign Up</h2>
+        <form id="signup-form">
+            <div class="input-container">
+                <label for="first-name"><strong>First Name:</strong></label>
+                <input type="text" id="first-name" name="first-name" required>
+
+                <label for="last-name"><strong>Last Name:</strong></label>
+                <input type="text" id="last-name" name="last-name" required>
+
+                <label for="grade-level"><strong>Grade Level:</strong></label>
+                <select id="grade-level" name="grade-level" required>
+                    <option value="">Select Grade Level</option>
+                    <option value="5th">5th Grade</option>
+                    <option value="6th">6th Grade</option>
+                    <option value="7th">7th Grade</option>
+                    <option value="8th">8th Grade</option>
+                    <option value="9th">9th Grade</option>
+                    <option value="10th">10th Grade</option>
+                    <option value="11th">11th Grade</option>
+                    <option value="12th">12th Grade</option>
+                </select>
+
+                <label for="username"><strong>Username:</strong></label>
+                <input type="text" id="username" name="username" required>
+
+                <label for="email"><strong>Email:</strong></label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="password"><strong>Password:</strong></label>
+                <input type="password" id="password" name="password" required>
+
+                <label for="confirm-password"><strong>Confirm Password:</strong></label>
+                <input type="password" id="confirm-password" name="confirm-password" required>
+            </div>
+            <button type="submit">Sign Up</button>
+        </form>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

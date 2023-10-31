@@ -1,0 +1,1 @@
+{"error":"lstat /home/runner/ProjectLogin/.cache/typescript/4.8/node_modules/.staging/types-registry-439c6dee/package.json: no such file or directory","level":"error","msg":"unable to stat .cache/typescript/4.8/node_modules/.staging/types-registry-439c6dee/package.json","time":"2023-10-31T18:37:40Z"}

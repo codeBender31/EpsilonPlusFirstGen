@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="math.css">
+    <title>Arithmetic Practice</title>
+</head>
+<body>
+    <div class="page-container">
+        <header>
+            <div class="challenge"><strong>CHOOSE YOUR CHALLENGE!!!</strong></div>
+            <nav>
+                <button type="button" class="icon-button">
+                    <span class="button__icon">
+                        <i class="fa-solid fa-user"></i>
+                    </span>
+                </button>
+            </nav>
+        </header>
+        <div class="container">
+            <div class="button-container">
+                <button id="additionBtn"><strong>+</strong></button>  
+                <button id="subtractionBtn"><strong>-</strong></button>
+                <button id="multiplicationBtn"><strong>*</strong></button>
+                <button id="divisionBtn"><strong>/</strong></button>
+            </div>
+        </div>
+        <div class="problem-set">
+            <div id="timer">Timer: <span id="minutes">00</span>:<span id="seconds">00</span></div>
+            <div class="problems-container">
+                <!-- Arithmetic problems will be generated here using JavaScript -->
+            </div>
+            <button id="submitBtn">Submit</button>
+        </div>
+    </div>
+    <script src="math.js"></script>
+</body>
+</html>

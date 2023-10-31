@@ -1,0 +1,99 @@
+/* Reset some default browser styles for consistency */
+body, h1, p {
+  margin: 0;
+  padding: 0;
+}
+
+/* Apply a gradient and animation to the body */
+body {
+  /* background: linear-gradient(to right, #86BBD8 0%, #eef1f5 100%); /* Updated background color to Carolina Blue (#86BBD8) */ 
+  background-color: #86BBD8;
+  font-family: Arial, sans-serif;
+  animation: fadeIn 1.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* Style the header section */
+header {
+  background-color: #33658A; /* Updated header background color to Lapis Lazuli (#33658A) */
+  color: white;
+  text-align: center;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+}
+
+header h1 {
+  font-size: 24px;
+}
+
+#timer {
+  font-size: 36px;
+  margin: 10px 0;
+}
+
+button {
+  background-color: #F6AE20; /* Updated button background color to Hunyadi Yellow (#F6AE2D) */
+  color: white;
+  font-size: 16px;
+  /* font-weight: 400; */
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: #F26419; /* Updated button hover background color to Orange (#F26419) */
+  transform: scale(1.05);
+}
+
+/* Style the main content section */
+main {
+  padding: 20px;
+}
+
+/* Style the input box */
+#book-input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  border: 1px solid #2F4858; /* Updated input border color to Charcoal (#2F4858) */
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+/* Style the table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+table, th, td {
+  border: 1px solid #ddd;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #33658A; /* Updated table header background color to Lapis Lazuli (#33658A) */
+  color: white;
+}
+
+table tr:hover {
+  background-color: #f2f2f2;
+}

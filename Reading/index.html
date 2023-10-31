@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Reading Tracker</title>
+</head>
+<body>
+    <header>
+        <h1>Reading Tracker</h1>
+        <div id="timer">00:00:00</div>
+        <button id="start">Start</button>
+        <button id="stop">Stop</button>
+        <button id="reset">Reset</button>
+    </header>
+
+    <main>
+        <table id = "book-table">
+            <tr>
+                <th>Book Title</th>
+                <th>Author</th>
+                <th>Last Page Read</th>
+                <th>Time Read (hh:mm:ss)</th>
+            </tr>
+            <!-- Add book entries here -->
+        </table>
+      <button id="add-row">Add Book</button>
+      <!-- <input type="text" id="book-input" placeholder="Enter book title"> -->
+        <div id="suggestions"></div>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Reading Tracker. All rights reserved.</p>
+    </footer>
+
+    <script src="https://replit.com/public/js/replit-badge-v2.js" theme="dark" position="bottom-right"></script>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #86BBD8; /* Background color: Carolina Blue (#86BBD8) */
+}
+
+.container {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #33658A; /* Updated header background color to Lapis Lazuli (#33658A) */
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.input-container {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #2F4858; /* Input border color: Charcoal (#2F4858) */
+    border-radius: 3px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px; /* Add margin to separate buttons */
+    background-color: #F6AE20; /* Button background color: Hunyadi Yellow (#F6AE20) */
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+button:hover {
+    background-color: #F26419; /* Button hover background color: Orange (#F26419) */
+    transform: scale(1.05);
+}
+/* Style the label for Grade Level */
+label[for="grade-level"] {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+/* Style the select element for Grade Level */
+#grade-level {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #2F4858; /* Input border color: Charcoal (#2F4858) */
+    border-radius: 3px;
+    background-color: #fff; /* Background color for select */
+    color: #333; /* Text color */
+}
+
+/* Style the select options */
+#grade-level option {
+    padding: 5px;
+    background-color: #fff; /* Background color for options */
+    color: #333; /* Text color for options */
+}
+
+/* Style the select when it's in focus (clicked) */
+#grade-level:focus {
+    border-color: #007bff; /* Focus border color (adjust as needed) */
+    outline: none; /* Remove the default outline */
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Add a subtle box shadow */
+}
