@@ -72,7 +72,8 @@ function updateTimer() {
     timerElement.textContent = elapsedTime.toISOString().substr(11, 8);
 }
 
-const apiKey = 'AIzaSyBtuVlpSHyGOIHK6Q-2ZiXGy6Yvd9TequY'; // Replace 'YOUR_API_KEY' with your actual API key
+const apiKey = ''; // Replace 'YOUR_API_KEY' with your actual API key
+
 
 function addRow() {
     const newRow = bookTable.insertRow();
