@@ -1,7 +1,7 @@
 # EpsilonPlusFirstGen
 # Educational Website
 
-![Website Screenshot](screenshot.png)
+![Website Screenshot](https://github.com/codeBender31/EpsilonPlusFirstGen/blob/main/ProjectLogin/EpsilonLogo.PNG)
 
 ## Table of Contents
 
