@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="Finance.css">
+    <title>Finance Page</title>
+    <!-- <style>
+        table {
+            width: 40%;
+            margin: 0 auto;
+            border-collapse: collapse;
+            
+        }
+        th, td {
+            border: 1px solid #000;
+            padding: 8px;
+            text-align: center;
+        }
+    </style> -->
+</head>
+
+<body>
+    <div class="container1">
+        <table align="center" id="table1">
+            <tr>
+                <th>Savings</th>
+                <th>Amount</th>
+            </tr>
+            <tr>
+                <td><input type="text" name="savings1"></td>
+                <td><input type="number" name="amount1"></td>
+            </tr>
+            <tr>
+                <td><input type="text" name="savings2"></td>
+                <td><input type="number" name="amount2"></td>
+            </tr>
+            <!-- Add more rows here -->
+        </table>
+        <button id="addRowButton">Add Row</button>
+    </div>
+    
+    <div class="container2">
+        <table align="left">
+            <tr>
+                <th>Saving Goals</th>
+            </tr>
+            <tr class="weekly-goal"> 
+                <td>Weekly Goal $<input type="text" name="Weekly Goal"></td>  
+            </tr>
+            <tr class="monthly-goal">
+                <td>Monthly Goal $<input type="text" name="Monthly Goal"></td>      
+            </tr>
+        </table>
+    </div>    
+    
+    <div class="container3">
+        <table>
+            <tr>
+                <th>Spent</th>
+                <th>Amount</th>
+            </tr>
+            <td><input type="text" name="Spent"></td>
+            <td><input type="number" name="Amount1"></td>
+        </table>
+    </div>
+    
+    <div class= "button">
+        <button type="button">Home Button</button>
+    </div>
+    <div class="Account">
+        <Account type="Account">My Account</Account>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+

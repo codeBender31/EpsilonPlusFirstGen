@@ -1,0 +1,73 @@
+body
+{
+    background-color:orange;
+}
+
+.container1 {
+    border-radius: 10px;
+    padding: 8px;
+    text-align: center;
+    color:black(253, 253, 251, 0.637);
+
+    
+    
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;  /*Updated header background color to Lapis Lazuli (#33658A) */ 
+    transform: translate(-80%, 290%);
+
+} 
+
+.container2 {
+    /* border: 1px solid #000; */
+    border-radius: 10px;
+    padding: 8px;
+    text-align: center;
+    
+    text-align: center;
+    
+    width: 20%;
+    max-width: 600px;
+    padding: 20px;
+    background-color: white;
+    transform: translate(310%, 170%);
+
+}
+.container3{
+    border-radius: 10px;
+    padding: 8px;
+    text-align: center;
+    
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;  /*Updated header background color to Lapis Lazuli (#33658A) */ 
+    transform: translate(80%, 290%);
+
+}
+.weekly-goal,
+.monthly-goal
+{
+    background-color:white;
+}
+
+.button
+{
+    border-radius: 10px;
+    padding: 10px 20%;
+    
+
+    transform:translate(-10%,-270%)
+
+
+}
+.Account
+{
+    border-radius: 10px;
+    padding: 10px 20%;
+
+    transform:translate(20%,-250%)
+}
