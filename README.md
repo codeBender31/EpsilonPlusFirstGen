@@ -43,3 +43,30 @@ Before you begin, ensure you have met the following requirements:
 
    ```sh
    git clone https://github.com/codeBender31/EpsilonPlusFirstGen
+   
+## Usage
+![](https://github.com/codeBender31/EpsilonPlusFirstGen/blob/main/FirstIteration.gif)
+
+## Arithmetic Practice
+The goal of this section is to help students practice their arithmetic skills and reinforce the basics in mathematics. 
+
+## Reading Tracker
+The goal of this section is to help students track their readimg and help motivate them to read even more each time. 
+
+## Personal Fitness
+The goal of this section is to teach students the basics of personal fitness and help guide them in their journey to become better athletes. 
+
+## Financial Literacy
+The goal of this section is to teach students the basics of savings and how it cam benefit them.
+
+Contributing
+We welcome contributions from the community. If you'd like to contribute to this project, please follow these steps:
+
+Fork the repository
+Create a new branch for your feature or bug fix
+Make your changes and test thoroughly
+Create a pull request with a clear description of your changes
+License
+Open Source
+
+Thank you for using our educational website! We hope you find it valuable in your educational journey. If you have any questions, suggestions, or encounter issues, please don't hesitate to contact us.
