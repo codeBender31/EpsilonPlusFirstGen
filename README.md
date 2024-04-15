@@ -32,15 +32,15 @@ Welcome to our educational website! This platform is designed to help students i
 
 ## Demo
 ### Login & Registration
-![Alt Text}(https://github.com/codeBender31/EpsilonPlusFirstGen/blob/main/SIteGIFS/Login%26Register.gif)
+![Alt Text](https://github.com/codeBender31/EpsilonPlusFirstGen/blob/main/SIteGIFS/Login%26Register.gif)
 ### Main Page
-![Alt Text}(https://github.com/codeBender31/EpsilonPlusFirstGen/blob/main/SIteGIFS/MainPage.gif)
+![Alt Text](https://github.com/codeBender31/EpsilonPlusFirstGen/blob/main/SIteGIFS/MainPage.gif)
 ### Math Module
-![Alt Text}(https://github.com/codeBender31/EpsilonPlusFirstGen/blob/main/SIteGIFS/Math.gif)
+![Alt Text](https://github.com/codeBender31/EpsilonPlusFirstGen/blob/main/SIteGIFS/Math.gif)
 ### Reading Module
-![Alt Text}(https://github.com/codeBender31/EpsilonPlusFirstGen/blob/main/SIteGIFS/Reading.gif)
+![Alt Text](https://github.com/codeBender31/EpsilonPlusFirstGen/blob/main/SIteGIFS/Reading.gif)
 ### Account
-![Alt Text}(https://github.com/codeBender31/EpsilonPlusFirstGen/blob/main/SIteGIFS/Account.gif)
+![Alt Text](https://github.com/codeBender31/EpsilonPlusFirstGen/blob/main/SIteGIFS/Account.gif)
 
 ## Getting Started
 
