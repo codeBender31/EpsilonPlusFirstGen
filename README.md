@@ -70,7 +70,7 @@ The goal of this section is to teach students the basics of personal fitness and
 ## Financial Literacy
 The goal of this section is to teach students the basics of savings and how it cam benefit them.
 
-Contributing
+## Contributing
 We welcome contributions from the community. If you'd like to contribute to this project, please follow these steps:
 
 Fork the repository
