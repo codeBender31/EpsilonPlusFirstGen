@@ -48,7 +48,7 @@ Welcome to our educational website! This platform is designed to help students i
 
 Before you begin, ensure you have met the following requirements:
 
-- [List any prerequisites or dependencies here]
+- Need Node JS installed
 
 ### Installation
 
@@ -57,8 +57,6 @@ Before you begin, ensure you have met the following requirements:
    ```sh
    git clone https://github.com/codeBender31/EpsilonPlusFirstGen
    
-## Usage
-![](https://github.com/codeBender31/EpsilonPlusFirstGen/blob/main/FirstIteration.gif)
 
 ## Arithmetic Practice
 The goal of this section is to help students practice their arithmetic skills and reinforce the basics in mathematics. 
