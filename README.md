@@ -7,6 +7,7 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Demo](#demo)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -28,6 +29,18 @@ Welcome to our educational website! This platform is designed to help students i
 - Reading Tracker: Keep tabs on your reading journey, set goals, and monitor your progress.
 - Personal Fitness: Access workout routines, health tips, and fitness challenges to stay in shape.
 - Financial Literacy: Learn about managing finances, budgeting, and making informed financial decisions.
+
+## Demo
+### Login & Registration
+![Alt Text}(https://github.com/codeBender31/EpsilonPlusFirstGen/blob/main/SIteGIFS/Login%26Register.gif)
+### Main Page
+![Alt Text}(https://github.com/codeBender31/EpsilonPlusFirstGen/blob/main/SIteGIFS/MainPage.gif)
+### Math Module
+![Alt Text}(https://github.com/codeBender31/EpsilonPlusFirstGen/blob/main/SIteGIFS/Math.gif)
+### Reading Module
+![Alt Text}(https://github.com/codeBender31/EpsilonPlusFirstGen/blob/main/SIteGIFS/Reading.gif)
+### Account
+![Alt Text}(https://github.com/codeBender31/EpsilonPlusFirstGen/blob/main/SIteGIFS/Account.gif)
 
 ## Getting Started
 
